@@ -12,3 +12,4 @@ Backend for a photo management tool.
 08. [ ] Store face(s) models as "Canonical Face Model" or another appropriate serializable format.
 09. [ ] Try identifying what the context in image is about (auto caption).
 10. [ ] Query by face, image context, name, text in picture, any other feature.
+11. [ ] A daemon to continue doing this on all changes.
